@@ -14,7 +14,7 @@ export default function App() {
   // Preload images for a smoother experience
   useEffect(() => {
     const images = [
-      '/src/assets/images/shell_wax_seal_1779206106370.png',
+      '/images/shell_wax_seal_1779206106370.png',
       'https://images.unsplash.com/photo-1548625361-12502ec32381?auto=format&fit=crop&q=80&w=800',
       'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800'
     ];

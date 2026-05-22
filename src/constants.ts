@@ -17,13 +17,13 @@ export const EVENT_INFO = {
     name: "Igreja da Afurada",
     address: "R. da Igreja 11, 4400-410 Vila Nova de Gaia",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=Igreja+da+Afurada+Gaia",
-    image: "/src/assets/images/igreja-afurada-3.png",
+    image: "/images/igreja-afurada-3.png",
   },
   reception: {
     name: "Quinta do Alferes de Castro",
     address: "R. do Alferes de Castro, 4405-595 Gulpilhares",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=Quinta+do+Alferes+de+Castro",
-    image: "src/assets/images/quinta-alferes.jpg",
+    image: "/images/quinta-alferes.jpg",
   },
   whatsapp: {
     // Número do WhatsApp com o DDI (Exemplo: 351 para Portugal + número)

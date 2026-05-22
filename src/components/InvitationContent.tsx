@@ -82,7 +82,7 @@ export function InvitationContent() {
                 <div className="w-full h-full p-4 flex flex-col items-center justify-between bg-beige-warm/30 relative">
                   {/* Watercolor backdrop */}
                   <img 
-                    src="/src/assets/images/matilde-invite.jpeg" 
+                    src="/images/matilde-invite.jpeg" 
                     alt="Floral Background Placeholder" 
                     className="absolute inset-0 w-full h-full object-contain opacity-75 p-6"
                     referrerPolicy="no-referrer"

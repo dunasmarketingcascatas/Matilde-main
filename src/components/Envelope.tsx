@@ -28,7 +28,7 @@ export function Envelope({ onOpen }: EnvelopeProps) {
       >
         <div className="relative group">
           <img 
-            src="/src/assets/images/shell_wax_seal_1779206106370.png" 
+            src="/images/shell_wax_seal_1779206106370.png" 
             alt="Selo da Matilde" 
             className="w-24 h-24 md:w-28 md:h-28 object-contain transition-transform duration-500 group-hover:scale-110 active:scale-95"
             referrerPolicy="no-referrer"

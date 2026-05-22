@@ -54,7 +54,7 @@ GUIA DE PERSONALIZAÇÃO DE DESIGN (FONTES E CORES)
 }
 
 .paper-texture {
-  background-image: url('/src/assets/images/vintage_paper_texture_1779206068517.png');
+  background-image: url('/images/vintage_paper_texture_1779206068517.png');
   background-size: cover;
   background-blend-mode: color-burn;
 }
