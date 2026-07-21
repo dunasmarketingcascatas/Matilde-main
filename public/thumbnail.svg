@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="36" fill="#FCF6EE"/>
+  <rect x="40" y="40" width="1120" height="550" rx="28" fill="#FFF9F2" stroke="#D9B47A" stroke-width="4"/>
+  <circle cx="300" cy="220" r="136" fill="#F3D9C4" fill-opacity="0.55"/>
+  <circle cx="900" cy="430" r="180" fill="#E8C7B3" fill-opacity="0.35"/>
+  <path d="M364 182C364 122 414 92 461 92C508 92 558 122 558 182C558 242 508 292 461 292C414 292 364 242 364 182Z" fill="#C58A6A" fill-opacity="0.18"/>
+  <path d="M607 176C607 126 649 96 689 96C729 96 771 126 771 176C771 226 729 256 689 256C649 256 607 226 607 176Z" fill="#C58A6A" fill-opacity="0.18"/>
+  <path d="M430 158C430 102 471 76 516 76C561 76 602 102 602 158C602 214 561 240 516 240C471 240 430 214 430 158Z" fill="#F1D6AF"/>
+  <path d="M444 152C444 108 473 86 500 86C527 86 556 108 556 152C556 196 527 218 500 218C473 218 444 196 444 152Z" fill="#D5A26D"/>
+  <path d="M468 144C468 123 479 112 500 112C521 112 532 123 532 144C532 165 521 176 500 176C479 176 468 165 468 144Z" fill="#FFF8ED"/>
+  <path d="M420 302C420 276 440 256 466 256H558C584 256 604 276 604 302V370H420V302Z" fill="#8D6A4B" fill-opacity="0.15"/>
+  <rect x="438" y="350" width="150" height="40" rx="20" fill="#C58A6A" fill-opacity="0.2"/>
+  <text x="600" y="250" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="#7A4A2B">Matilde</text>
+  <text x="600" y="310" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#7A4A2B">Fontoura Crespo</text>
+  <text x="600" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" letter-spacing="4" fill="#9D6B3D">BATIZADO</text>
+  <line x1="500" y1="392" x2="700" y2="392" stroke="#D9B47A" stroke-width="2"/>
+  <text x="600" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8C6A4C">Convite digital</text>
+  <text x="600" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#A67A54">Uma celebração especial em família</text>
+</svg>
