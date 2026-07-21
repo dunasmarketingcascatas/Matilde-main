@@ -165,7 +165,7 @@ export function InvitationContent() {
             </div>
             <div className="w-full md:w-1/2">
               <div className="flex items-center gap-3 text-gold mb-2">
-                <span className="text-sm font-sans font-bold tracking-widest uppercase">11:00</span>
+                <span className="text-sm font-sans font-bold tracking-widest uppercase">12:00</span>
                 <div className="flex-grow h-[1px] bg-gold/20" />
               </div>
               <h3 className="text-2xl mb-3">Cerimónia Religiosa</h3>
@@ -216,41 +216,7 @@ export function InvitationContent() {
         </div>
       </Section>
 
-      {/* Menu Section */}
-      <Section title="O Menu" subtitle="Sabores e Afetos" className="bg-neutral-50/50">
-        <div className="max-w-md mx-auto bg-white p-12 shadow-2xl rounded-sm paper-texture border border-neutral-100">
-           <Utensils className="w-6 h-6 text-gold/30 mx-auto mb-8" />
-           
-           <div className="space-y-10">
-             <div>
-               <h4 className="text-[10px] uppercase tracking-[0.3em] text-gold font-sans font-bold mb-4">Boas-vindas</h4>
-               <ul className="space-y-2 italic text-neutral-600">
-                 {EVENT_INFO.menu.welcome.map((item, i) => <li key={i}>{item}</li>)}
-               </ul>
-             </div>
-             
-             <div>
-               <h4 className="text-[10px] uppercase tracking-[0.3em] text-gold font-sans font-bold mb-4">Pratos Principais</h4>
-               <ul className="space-y-2 italic text-neutral-600">
-                 {EVENT_INFO.menu.main.map((item, i) => <li key={i}>{item}</li>)}
-               </ul>
-             </div>
-             
-             <div>
-               <h4 className="text-[10px] uppercase tracking-[0.3em] text-gold font-sans font-bold mb-4">Sobremesas & Bolo</h4>
-               <ul className="space-y-2 italic text-neutral-600">
-                 {EVENT_INFO.menu.dessert.map((item, i) => <li key={i}>{item}</li>)}
-               </ul>
-             </div>
-           </div>
-
-           <div className="mt-12 pt-8 border-t border-neutral-100">
-             <p className="text-[10px] italic text-neutral-400">
-               * Por favor informe-nos de qualquer restrição alimentar.
-             </p>
-           </div>
-        </div>
-      </Section>
+     
 
       {/* RSVP Section */}
       <Section title="Confirmação" subtitle="RSVP">

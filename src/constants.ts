@@ -3,10 +3,10 @@ export const EVENT_INFO = {
   // INFORMAÇÕES DO EVENTO (EDITÁVEIS)
   // ==========================================
   name: "Matilde Fontoura Crespo",
-  date: new Date("2026-09-03T11:00:00"),
+  date: new Date("2026-09-03T12:00:00"),
   dateDisplay: "3 de Setembro de 2026",
   dayOfWeek: "Quinta-feira",
-  time: "11:00",
+  time: "12:00",
 
   // URL da Foto de Capa (Matilde). 
   // Pode colocar o link de uma foto real aqui. Se deixar vazio (""), 
